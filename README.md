@@ -32,7 +32,8 @@ This repository contains two 14 - channel EEG datasets, EmoX1 and EmoX2, designe
 ## Data Collection Process
 The data collection process for both datasets is illustrated in Fig. 1. Before each emotion data collection, subjects listened to calming music to return to a neutral emotional state. The EEG signals during this period were recorded as baseline data. After watching the video clips, subjects rated their arousal, valence, and dominance values on a scale from 1 to 5. These ratings were saved as emotion labels in a file named "label.csv".
 
-![image](https://github.com/user-attachments/assets/676bb380-f357-4b22-b3de-57bb2e65805f)
+![image](https://github.com/user-attachments/assets/f7fa3f0c-20c2-4af9-9fb1-aa6540407b3d)
+
 
 ## Download
 https://github.com/Shuangyou-Li/EmoX/releases
