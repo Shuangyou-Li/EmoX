@@ -34,4 +34,5 @@ The data collection process for both datasets is illustrated in Fig. 1. Before e
 
 ![image](https://github.com/user-attachments/assets/676bb380-f357-4b22-b3de-57bb2e65805f)
 
-
+## Download
+https://github.com/Shuangyou-Li/EmoX/releases
